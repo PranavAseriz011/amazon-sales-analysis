@@ -4,6 +4,9 @@ Data analysis project using Python, pandas, and Matplotlib on Amazon sales data.
 
 # Amazon Sales Analysis
 
+## Overview
+This project analyzes Amazon sales data using Python and pandas to discover business insights and sales trends.
+
 ## Tools Used
 - Python
 - pandas
@@ -11,16 +14,20 @@ Data analysis project using Python, pandas, and Matplotlib on Amazon sales data.
 - Jupyter Notebook
 
 ## Project Goals
-Analyze Amazon sales data to discover:
-- top categories
-- monthly trends
-- state-wise sales
-- order status insights
+- Analyze top-selling categories
+- Discover monthly sales trends
+- Explore state-wise sales performance
+- Analyze order status distribution
 
 ## Key Insights
-- Top-performing states generated highest revenue
-- Certain categories dominated sales
+- Top-performing states generated the highest revenue
+- Certain product categories dominated sales
 - Monthly trends revealed peak sales periods
+- Order status analysis showed delivery patterns
 
 ## Visualizations
-Included bar charts and line charts for business insights.
+The project includes:
+- Bar charts
+- Line charts
+- Sales trend analysis
+- State-wise sales analysis
