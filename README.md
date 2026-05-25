@@ -2,7 +2,7 @@
 Data analysis project using Python, pandas, and Matplotlib on Amazon sales data.
 
 
-# Amazon Sales Analysis
+
 
 ## Tools Used
 - Python
