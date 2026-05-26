@@ -24,3 +24,10 @@ Analyze Amazon sales data to discover:
 
 ## Visualizations
 Included bar charts and line charts for business insights.
+
+## Power BI Dashboard
+An interactive Power BI dashboard was created to visualize:
+- Sales trends
+- Category performance
+- State-wise sales
+- Order status distribution
